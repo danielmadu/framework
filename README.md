@@ -1,3 +1,3 @@
-��# Este � o README
+#Leia-me
 
 Mini framework em PHP
